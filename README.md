@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/dynxstyyyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dynxstyyyy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15368542" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15368542" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucts6aepytmd9un3qvvwtgrq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucts6aepytmd9un3qvvwtgrq" height="30" width="40" /></a>
 <a href="https://discord.gg/x65hqE6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="x65hqE6" height="30" width="40" /></a>
 </p>
 
