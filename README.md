@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dynxsty</h1>
+<h1 align="center">Hey 👋, I'm Dynxsty!</h1>
 <p align="left"> <a href="https://twitter.com/dynxstyyyy" target="blank"><img src="https://img.shields.io/twitter/follow/dynxstyyyy?logo=twitter&style=for-the-badge" alt="dynxstyyyy" /></a> </p>
 
 - 🔭 I’m currently working on **JavaBot**
