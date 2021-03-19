@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **dynxsty@javadiscord.net**
 
-- ⚡ Fun fact: **pineapple should be on every sort of pizza**
+- ⚡ Fun fact: **pineapple should be on no pizza**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
