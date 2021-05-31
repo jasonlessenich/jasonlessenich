@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋, I'm Dynxsty!</h1>
-<p align="left"> <a href="https://twitter.com/dynxstyyyy" target="blank"><img src="https://img.shields.io/twitter/follow/dynxstyyyy?logo=twitter&style=for-the-badge" alt="dynxstyyyy" /></a> </p>
 
 - 🔥 I’m currently working on **JavaBot**
 
@@ -9,12 +8,12 @@
 
 <h3 align="left">Connect with me</h3>
 <p align=left>
-<a href="https://twitter.com/Dynxstyyyy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://join.javadiscord.net"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://twitter.com/Dynxstyyyy"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://join.javadiscord.net"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"></a>
 </br>  
-<a href="https://github.com/DynxstyGIT"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://stackoverflow.com/users/15368542"><img src="https://img.shields.io/badge/Stackoverflow-FFFFFF?style=for-the-badge&logo=stackoverflow"></a>
-<a href="mailto:dynxsty@javadiscord.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/DynxstyGIT"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/15368542"><img src="https://img.shields.io/badge/Stackoverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="mailto:dynxsty@javadiscord.net"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
