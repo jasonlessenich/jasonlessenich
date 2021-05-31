@@ -18,7 +18,15 @@
 </p>
 
 <h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://img.shields.io/badge/blender-FFFFFF?style=for-the-badge&logo=blender" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=css" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-FFFFFF?style=for-the-badge&logo=figma" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&logo=html" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=black" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-FFFFFF?style=for-the-badge&logo=linux" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-FFFFFF?style=for-the-badge&logo=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/blender-FFFFFF?style=for-the-badge&logo=blender"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=css"/></a>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-FFFFFF?style=for-the-badge&logo=figma"/></a>
+<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&logo=html"/></a>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=black"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/linux-FFFFFF?style=for-the-badge&logo=linux"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-FFFFFF?style=for-the-badge&logo=mongodb"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python/></a>
+</p>
 
 <h3 align="left">Support</h3>
 <p></a>
