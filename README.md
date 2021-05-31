@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align=left>
-<a href="https://twitter.com/Dynxstyyyy"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/Dynxstyyyy"><img src="https://img.shields.io/badge/Twitter-101414?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://join.javadiscord.net"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"></a>
 </br>  
 <a href="https://github.com/DynxstyGIT"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
