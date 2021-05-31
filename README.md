@@ -10,7 +10,8 @@
 <h3 align="left">Connect with me</h3>
 <p align=left>
 <a href="https://twitter.com/Dynxstyyyy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://join.javadiscord.net"><img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://join.javadiscord.net"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</br>  
 <a href="https://github.com/DynxstyGIT"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://stackoverflow.com/users/15368542"><img src="https://img.shields.io/badge/Stackoverflow-FFFFFF?style=for-the-badge&logo=stackoverflow"></a>
 <a href="mailto:dynxsty@javadiscord.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
