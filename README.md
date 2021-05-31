@@ -25,7 +25,7 @@
 <a href="https://www.java.com"><img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=black"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/linux-FFFFFF?style=for-the-badge&logo=linux"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-FFFFFF?style=for-the-badge&logo=mongodb"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python"/></a>
 </p>
 
 <h3 align="left">Support</h3>
