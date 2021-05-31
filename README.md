@@ -1,19 +1,19 @@
-<h1 align="center">Hey 👋, I'm Dynxsty!</h1>
+<h1 align="left">Hey 👋, I'm Dynxsty!</h1>
 <p align="left"> <a href="https://twitter.com/dynxstyyyy" target="blank"><img src="https://img.shields.io/twitter/follow/dynxstyyyy?logo=twitter&style=for-the-badge" alt="dynxstyyyy" /></a> </p>
 
-- 🔭 I’m currently working on **JavaBot**
+- 🔥 I’m currently working on **JavaBot**
 
-- 🌱 I’m currently learning **Java**
+- ☕ I’m currently learning **Java**
 
 - 📫 How to reach me: **dynxsty@javadiscord.net**
 
-- ⚡ Fun fact: **pineapple should be on every sort of pizza**
-
 <h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/dynxstyyyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dynxstyyyy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15368542" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15368542" height="30" width="40" /></a>
-<a href="https://discord.gg/x65hqE6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="x65hqE6" height="30" width="40" /></a>
+<p align=left>
+<a href="https://twitter.com/Dynxstyyyy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://join.javadiscord.net"><img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/DynxstyGIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/15368542"><img src="https://img.shields.io/badge/Stackoverflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="mailto:dynxsty@javadiscord.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
