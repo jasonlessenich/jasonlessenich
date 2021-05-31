@@ -19,20 +19,17 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
-<a href="https://www.java.com"><img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=black"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python"/></a>
-<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&logo=html"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=css"/></a>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=white"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white"/></a>
 </br>
-<a href="https://www.blender.org/"><img src="https://img.shields.io/badge/blender-FFFFFF?style=for-the-badge&logo=blender"/></a>
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-FFFFFF?style=for-the-badge&logo=figma"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/linux-FFFFFF?style=for-the-badge&logo=linux"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-FFFFFF?style=for-the-badge&logo=mongodb"/></a>
+<a href="https://www.blender.org/"><img src="https://img.shields.io/badge/blender-000000?style=for-the-badge&logo=blender&logoColor=white"/></a>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Support</h3>
 <p></a>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dynxstygit&show_icons=true&theme=dark&locale=en" alt="dynxstygit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dynxstygit&theme=dark" alt="dynxstygit" /></p>
