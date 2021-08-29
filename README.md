@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm Dynxsty!</h1>
 
-- 🔥 I’m currently working on **JavaBot**
+- 🔥 I’m currently working on **[JavaBot](https://github.com/Java-Discord/JavaBot)**
 
 - ☕ I’m currently learning **Java**
 
