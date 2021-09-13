@@ -27,6 +27,12 @@
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-101414?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/linux-101414?style=for-the-badge&logo=linux&logoColor=white"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-101414?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+</br>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/intellij%20Idea-101414?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+<a href="https://desktop.github.com/" target="_blank"><img src="https://img.shields.io/badge/github%20desktop-101414?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.mongodb.com/products/compass" target="_blank"><img src="https://img.shields.io/badge/Mongodb%20compass-101414?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<a href="https://termius.com/windows" target="_blank"><img src="https://img.shields.io/badge/termius-101414?style=for-the-badge&logo=termius&logoColor=white"/>
+
 </p>
 
 <p></a>
