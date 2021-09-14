@@ -36,5 +36,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dynxstygit&show_icons=true&theme=dark&locale=en&layout=compact" alt="dynxstygit" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dynxstygit&show_icons=true&theme=dark&locale=en" alt="dynxstygit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dynxstygit&show_icons=true&theme=dark&locale=en" alt="dynxstygit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dynxstygit&theme=dark" alt="dynxstygit" /></p>
