@@ -4,7 +4,7 @@
 
 - ☕ I’m currently learning **Java**
 
-- 📫 How to reach me: **dynxsty@javadiscord.net**
+- 📫 How to reach me: **dynxsty@javadiscord.net**, or on **https://discord.gg/java** (5100 Members! 🥳)
 
 <h3 align="left">Connect with me</h3>
 <p align=left>
