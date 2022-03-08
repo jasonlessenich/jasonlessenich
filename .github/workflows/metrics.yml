@@ -15,19 +15,19 @@ jobs:
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
-              template: classic
               filename: general.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              base: header
+              base: ""
           
           - name: 📊 AniList
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
-              template: classic
-              filename: medias.svg
+              filename: anilist.svg
               token: ${{ secrets.METRICS_TOKEN }}
               base: ""
+              config_order: anilist
+              plugin_anilist: yes
               plugin_anilist_medias: anime
               plugin_anilist_sections: favourites, watching
               plugin_anilist_limit: 3
@@ -37,9 +37,9 @@ jobs:
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
-              template: classic
               filename: isocalender.svg
               token: ${{ secrets.METRICS_TOKEN }}
               base: ""
+              config_order: isocalender
               plugin_isocalendar: yes
           
