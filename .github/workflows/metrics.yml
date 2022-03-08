@@ -10,26 +10,36 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+     
+          - name: 📊 General 
+            if: ${{ success() || failure() }}
+            uses: lowlighter/metrics@latest
+            with:
+              template: classic
+              filename: general.svg
+              token: ${{ secrets.TOKEN }}
+              base: header
           
-          # Options
-          user: DynxstyGIT
-          template: classic
+          - name: 📊 AniList
+            if: ${{ success() || failure() }}
+            uses: lowlighter/metrics@latest
+            with:
+              template: classic
+              filename: medias.svg
+              token: ${{ secrets.TOKEN }}
+              base: ""
+              plugin_anilist_medias: anime
+              plugin_anilist_sections: favourites, watching
+              plugin_anilist_limit: 3
+              plugin_anilist_user: Dynxsty
           
-          # AniList
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favourites, watching
-          plugin_anilist_limit: 3
-          plugin_anilist_user: Dynxsty
+          - name: 📊 Isometric Calender
+            if: ${{ success() || failure() }}
+            uses: lowlighter/metrics@latest
+            with:
+              template: classic
+              filename: isocalender.svg
+              token: ${{ secrets.TOKEN }}
+              base: ""
+              plugin_isocalendar: yes
           
-          # Languages
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage, lines
-          plugin_languages_indepth:  true
-                    
-          # Isometric commit calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
