@@ -27,6 +27,8 @@ jobs:
           
           # Languages
           plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_indepth:  true
                     
           # Isometric commit calendar
           plugin_isocalendar: yes
