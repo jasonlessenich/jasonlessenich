@@ -17,7 +17,10 @@ jobs:
             with:
               filename: general.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              base: ""
+              base: header
+              config_order: base.header
+              user: DynxstyGIT
+              template: classic
           
           - name: 📊 AniList
             if: ${{ success() || failure() }}
