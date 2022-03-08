@@ -18,14 +18,16 @@ jobs:
           user: DynxstyGIT
           template: classic
           
-          # Anilist watch list and reading list: https://github.com/lowlighter/metrics/blob/master/source/plugins/anilist/README.md
+          # AniList
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favourites, watching
           plugin_anilist_limit: 3
           plugin_anilist_user: Dynxsty
           
-          
+          # Languages
+          plugin_languages: yes
+                    
           # Isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
