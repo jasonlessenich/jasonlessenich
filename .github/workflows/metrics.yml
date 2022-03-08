@@ -23,6 +23,7 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favourites, watching
           plugin_anilist_limit: 3
+          plugin_anilist_user: Dynxsty
           
           
           # Isometric commit calendar
