@@ -17,7 +17,7 @@ jobs:
             with:
               template: classic
               filename: general.svg
-              token: ${{ secrets.TOKEN }}
+              token: ${{ secrets.METRICS_TOKEN }}
               base: header
           
           - name: 📊 AniList
@@ -26,7 +26,7 @@ jobs:
             with:
               template: classic
               filename: medias.svg
-              token: ${{ secrets.TOKEN }}
+              token: ${{ secrets.METRICS_TOKEN }}
               base: ""
               plugin_anilist_medias: anime
               plugin_anilist_sections: favourites, watching
@@ -39,7 +39,7 @@ jobs:
             with:
               template: classic
               filename: isocalender.svg
-              token: ${{ secrets.TOKEN }}
+              token: ${{ secrets.METRICS_TOKEN }}
               base: ""
               plugin_isocalendar: yes
           
