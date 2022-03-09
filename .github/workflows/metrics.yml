@@ -17,7 +17,7 @@ jobs:
             with:
               filename: general.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              base: header, activity, community, repositories, metadata
+              base: header, activity, repositories, metadata
               config_order: base.header
               user: DynxstyGIT
               template: classic
@@ -45,6 +45,7 @@ jobs:
               base: ""
               config_order: isocalender
               plugin_isocalendar: yes
+              plugin_isocalendar_duration: full-year
               
           - name: 📊 Languages
             if: ${{ success() || failure() }}
