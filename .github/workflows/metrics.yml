@@ -17,7 +17,7 @@ jobs:
             with:
               filename: general.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              base: header
+              base: header, activity, community, repositories, metadata
               config_order: base.header
               user: DynxstyGIT
               template: classic
@@ -45,4 +45,14 @@ jobs:
               base: ""
               config_order: isocalender
               plugin_isocalendar: yes
+              
+          - name: 📊 Languages
+            if: ${{ success() || failure() }}
+            uses: lowlighter/metrics@latest
+            with:
+              filename: languages.svg
+              token: ${{ secrets.METRICS_TOKEN }}
+              base: ""
+              config_order: languages
+              plugin_languages: yes
           
