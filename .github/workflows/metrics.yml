@@ -46,13 +46,17 @@ jobs:
               config_order: isocalender
               plugin_isocalendar: yes
               
-          - name: 📊 Languages
+          - name: 📊 Coding Habits
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
-              filename: languages.svg
+              filename: habits.svg
               token: ${{ secrets.METRICS_TOKEN }}
               base: ""
-              config_order: languages
-              plugin_languages: yes
+              config_order: habits
+              config_timezone: Europe/Berlin
+              plugin_habits: yes
+              plugin_habits_charts: no
+              plugin_habits_from: 1000
+              plugin_habits_days: 30
           
