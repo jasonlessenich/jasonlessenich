@@ -45,7 +45,6 @@ jobs:
               base: ""
               config_order: isocalender
               plugin_isocalendar: yes
-              plugin_isocalendar_duration: full-year
               
           - name: 📊 Languages
             if: ${{ success() || failure() }}
