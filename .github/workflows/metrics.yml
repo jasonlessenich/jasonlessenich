@@ -37,6 +37,7 @@ jobs:
             uses: lowlighter/metrics@latest
             with:
               filename: wakatime.svg
+              token: ${{ secrets.METRICS_TOKEN }}
               plugin_wakatime: yes
               plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
               plugin_wakatime_days: 365
