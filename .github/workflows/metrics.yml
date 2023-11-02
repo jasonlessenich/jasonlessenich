@@ -31,3 +31,14 @@ jobs:
               base: ""
               config_order: isocalender
               plugin_isocalendar: yes
+
+          - name: ⏰ WakaTime
+            if: ${{ success() || failure() }}
+            uses: lowlighter/metrics@latest
+            with:
+              filename: wakatime.svg
+              plugin_wakatime: yes
+              plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+              plugin_wakatime_days: 365
+              plugin_wakatime_repositories_visibility: public
+          
