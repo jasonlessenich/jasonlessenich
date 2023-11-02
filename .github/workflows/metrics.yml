@@ -22,20 +22,6 @@ jobs:
               user: DynxstyGIT
               template: classic
           
-          - name: 📊 AniList
-            if: ${{ success() || failure() }}
-            uses: lowlighter/metrics@latest
-            with:
-              filename: anilist.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              base: ""
-              config_order: anilist
-              plugin_anilist: yes
-              plugin_anilist_medias: anime
-              plugin_anilist_sections: favourites, watching
-              plugin_anilist_limit: 3
-              plugin_anilist_user: Dynxsty
-          
           - name: 📊 Isometric Calender
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
@@ -45,18 +31,3 @@ jobs:
               base: ""
               config_order: isocalender
               plugin_isocalendar: yes
-              
-          - name: 📊 Coding Habits
-            if: ${{ success() || failure() }}
-            uses: lowlighter/metrics@latest
-            with:
-              filename: habits.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              base: ""
-              config_order: habits
-              config_timezone: Europe/Berlin
-              plugin_habits: yes
-              plugin_habits_charts: no
-              plugin_habits_from: 1000
-              plugin_habits_days: 30
-          
