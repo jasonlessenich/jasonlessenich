@@ -27,6 +27,7 @@ jobs:
 
           # 📊 Isometric Calender
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           # 📊 Languages
           plugin_languages: yes
