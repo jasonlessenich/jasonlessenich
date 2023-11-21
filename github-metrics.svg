@@ -2304,7 +2304,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">API error: 504</div>
+                        <div class="field error">Unexpected error</div>
                     </section>
                 </div>
             </section>
