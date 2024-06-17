@@ -34,9 +34,3 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
           commits_authoring: Jason Dean Lessenich, DynxstyGIT, DynxstyGIT@users.noreply.github.com, jasonlessenich, jasonlessenich@users.noreply.github.com
-
-          # 📊 WakaTime
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 365
-          plugin_wakatime_repositories_visibility: public
