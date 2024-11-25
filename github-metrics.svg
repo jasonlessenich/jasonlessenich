@@ -226,7 +226,7 @@
                     <rect mask="url(#languages-bar)" x="453.9828551276533" y="0" width="2.325071780954349" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="456.3079269086076" y="0" width="1.35200351045434" height="8" fill="#DA3434"/>
                     <rect mask="url(#languages-bar)" x="457.65993041906194" y="0" width="1.3180176701243767" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.9779480891863" y="0" width="0.6597656047861348" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.9779480891863" y="0" width="0.6597656047861348" height="8" fill="#701516"/>
                     <rect mask="url(#languages-bar)" x="459.63771369397244" y="0" width="0.36228630602750633" height="8" fill="#F05138"/>
                 </svg>
                 <div class="row fill-width">
@@ -270,7 +270,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Ruby
                             </div>
